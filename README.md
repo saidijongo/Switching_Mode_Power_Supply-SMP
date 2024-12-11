@@ -10,4 +10,7 @@ https://www.ti.com/lit/ug/sluucn1c/sluucn1c.pdf?ts=1733598248323&ref_url=https%2
 
 ![image](https://github.com/user-attachments/assets/773e6633-b311-4df5-8e5c-ab9f224d1850)
 
+![Uploading image.png…]()
+
+
 
