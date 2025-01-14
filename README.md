@@ -15,4 +15,8 @@ https://www.ti.com/lit/ug/sluucn1c/sluucn1c.pdf?ts=1733598248323&ref_url=https%2
 ![Uploading image.png…]()
 
 
+Git project
+https://github.com/ChihabFortas/FlyBack-SMPS-12V-10A/tree/main
+
+
 
